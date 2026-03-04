@@ -1,6 +1,6 @@
 Comp218
 Adarsh Kumar
-Assignment 1
+Assignment 2
 3787647
 time spent: 3.5 to 4 hours
 ------------
