@@ -1,0 +1,10 @@
+What is the correct way to create a function in Python?|def myFunction():|create myFunction():|function myFunction():|def:myFunction()|0
+Which data structure follows the Last-In, First-Out (LIFO) principle?|Queue|Linked List|Stack|Binary Tree|2
+In a closure, where does the inner function look for variables not defined locally?|Global scope only|The enclosing (outer) function's scope|It cannot access outside variables|The system library|1
+What is the time complexity of appending an item to a Python list?|O(n)|O(log n)|O(n^2)|O(1)|3
+Which keyword is used to modify a variable in an outer (but not global) scope?|global|nonlocal|static|extern|1
+In recursion, what is the condition called that stops the function from calling itself?|Stop case|End point|Base case|Recursive step|2
+What does the modulo operator (%) return?|The quotient|The square root|The remainder|The absolute value|2
+Which of these is a mutable data type in Python?|String|Tuple|Integer|List|3
+What is the result of 10 // 3 in Python?|3.333|3|4|1|1
+Which module is used to work with dates and times in Python?|time_mgr|calendar|datetime|clock|2
